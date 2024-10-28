@@ -2,8 +2,11 @@
 ## Calcular promedio
 
 1 - Importar las librerías necesarias.
+
 2 - Crear un DataFrame (o cargar uno existente).
+
 3 - Calcular el promedio de la columna deseada.
+
 4 - Visualizarlo usando Seaborn.
 ## Codigo
  
@@ -30,4 +33,4 @@ plt.title('Valores con Promedio')
 plt.show()
 
 ### Por lo tanto, el promedio de la columna "Valores" es 30.
-![Uploading image.png…]()
+
